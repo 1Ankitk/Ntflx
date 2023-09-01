@@ -50,7 +50,7 @@
 
 import React from "react";
 import ReactDOM from "react-dom";
-// import App from './App';
+import App from './App';
 import Card from "./Cards";
 import Rdata from "./Rdata";
 import './index.css';
