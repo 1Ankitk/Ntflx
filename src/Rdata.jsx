@@ -30,25 +30,25 @@ const Rdata = [
         link: "https://www.netflix.com/in/title/81511410"
     },
     {
-        sname: "SpyXFamily",
+        sname: "FMAB",
         imgsrc: "https://picsum.photos/250/350",
         title: "Netflix original Series",
         link: "https://www.netflix.com/in/title/81511410"
     },
     {
-        sname: "SpyXFamily",
+        sname: "One Piece",
         imgsrc: "https://picsum.photos/250/350",
         title: "Netflix original Series",
         link: "https://www.netflix.com/in/title/81511410"
     },
     {
-        sname: "Doraemon",
+        sname: "Black Clover",
         imgsrc: "https://picsum.photos/250/350",
         title: "Netflix original Series",
         link: "https://www.netflix.com/in/title/81511410"
     },
     {
-        sname: "SpyXFamily",
+        sname: "Naruto",
         imgsrc: "https://picsum.photos/250/350",
         title: "Netflix original Series",
         link: "https://www.netflix.com/in/title/81511410"
