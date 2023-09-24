@@ -15,20 +15,6 @@
 
 
 import React from "react";
-// import {add,divi,mul,sub} from './Calc';
-
-// function App(){
-//     return (
-//         <>
-//         <ol>
-//             <li>{add(10,20)}</li>
-//             <li>{mul(20,30)}</li>
-//             <li>{divi(20,10)}</li>
-//             <li>{sub(40,20)}</li>
-//         </ol>
-//         </>
-//     );
-// }
 function App(props){
     console.log(props);
     return(
